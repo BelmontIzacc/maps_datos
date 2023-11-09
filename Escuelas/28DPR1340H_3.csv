@@ -1,0 +1,21 @@
+seccion,calificacion,cantidad
+speak 1,Pre - A1,70
+speak 1,A1,71
+speak 1,A2,76
+speak 2,Pre - A1,78
+speak 2,A1,73
+speak 2,A2,66
+reading,Pre - A1,30
+reading,A1 -,43
+reading,A1,32
+reading,A1 +,27
+reading,A2 -,26
+reading,A2,30
+reading,A2 +,29
+listening,Pre - A1,28
+listening,A1 -,34
+listening,A1,24
+listening,A1 +,30
+listening,A2 -,25
+listening,A2,44
+listening,A2 +,32
