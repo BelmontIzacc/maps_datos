@@ -1,12 +1,12 @@
-,municipio,Zona,NumeroAlumnos,numeroChicas,numeroChicos,speakingParte1,speakingParte2,speaking,listening,reading,mejorSeccion,peorSeccion
-"0,Matamoros,A,708,359,349,A1,Pre - A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"1,Rio Bravo,A,682,354,328,Pre - A1,Pre - A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"2,Tampico,C,720,370,350,Pre - A1,Pre - A1,A1,A1,A1 +,""Reading, Speaking"",Listening"
-"3,Cd. Victoria,B,766,395,371,A1,Pre - A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"4,Reynosa,A,683,321,362,A1,A1,A1,A1,A1 +,""Reading, Speaking"",Listening"
-"5,Cd. Madero,C,692,352,340,A1,A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"6,Soto La Marina,B,713,345,368,Pre - A1,A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"7,Altamira,C,709,353,356,A1,Pre - A1,A1,A1,A1 +,""Reading, Speaking"",Listening"
-"8,Tula,C,688,342,346,Pre - A1,Pre - A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"9,Nvo. Laredo,A,672,321,351,Pre - A1,A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
-"10,Padilla,B,667,357,310,Pre - A1,A1,A1,A1 +,A1 +,Listening,""Reading, Speaking"""
+,municipality,reviewer_answers_speaking_part_1,reviewer_answers_speaking_part_2,reviewer_answers_listening,reviewer_answers_reading_writing,correct_answers_listening,correct_answers_reading_writing,correct_answers_speaking_part_1,correct_answers_speaking_part_2,qualification_speaking_part_1,qualification_speaking_part_2,qualification_listening,qualification_reading,correct_answers_speaking,qualification_speaking,best_school,worst_school,best_section,worst_section,students_number,girl,boy,zone,school_number
+0,Rio Bravo,4,3,12,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR2064A - ALBERTO CARRERA TORRES,28DPR0829Z - MIGUEL HIDALGO,Speaking,Listening,705,361,344,A,4
+1,Tampico,4,4,12,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR1454J - JUSTO SIERRA,28DPR1817B - GRAL. CESAR LOPEZ DE LARA,Speaking,Listening,724,382,342,C,3
+2,Padilla,4,4,13,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR1748W - MIGUEL HIDALGO,28DPR1748W - MIGUEL HIDALGO,Speaking,Listening,705,297,408,B,1
+3,Altamira,4,3,13,21,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR2021C - ALVARO OBREGON,28DPR1400F - PROF. JUAN CAMACHO CERVANTES,Speaking,Listening,726,366,360,C,10
+4,Cd. Madero,3,4,13,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR1414I - GERARDO GOMEZ CASTILLO,28DPR1332Z - PROFA. AURELIA GARCIA RODRIGUEZ,Speaking,Listening,729,373,356,C,7
+5,Cd. Victoria,3,3,13,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR2143N - LAZARO CARDENAS DEL RIO,28DPR1169O - LEONA VICARIO,Speaking,Listening,653,322,331,B,20
+6,Soto La Marina,3,4,13,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR1533W - LAZARO CARDENAS,28DPR1663P - GRAL. FELIPE DE LA GARZA,Speaking,Listening,644,313,331,B,2
+7,Reynosa,4,3,13,21,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR2081R - FELIPE ANGELES,28DPR2504H - JULIAN ERNESTO ZAMORA RIVAS,Speaking,Listening,714,359,355,A,15
+8,Nvo. Laredo,3,3,12,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR1360V - LEYES DE REFORMA,28DPR2439Y - PROF. CECILIO JESUS CASTILLO CASTILLO,Speaking,Listening,729,364,365,A,15
+9,Tula,4,4,13,20,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR1344D - NIÑOS HEROES,28DPR1045F - DR. NORBERTO TREVIÑO ZAPATA,Speaking,Listening,681,362,319,C,3
+10,Matamoros,4,3,12,21,5,13,3,3,A1,A1,Pre - A1,A1 -,3,A1,28DPR2271I - PROF. ERNESTO GUAJARDO SALINAS,28DPR0477N - MODELO,Speaking,Listening,690,325,365,A,20
