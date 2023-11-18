@@ -1,0 +1,61 @@
+seccion,calificacion,cantidad,edad
+speak 1,Pre - A1,316,11
+speak 1,A1,330,11
+speak 1,A2,196,11
+speak 2,Pre - A1,335,11
+speak 2,A1,317,11
+speak 2,A2,190,11
+reading,Pre - A1,25,11
+reading,A1 -,30,11
+reading,A1,107,11
+reading,A1 +,119,11
+reading,A2 -,186,11
+reading,A2,241,11
+reading,A2 +,132,11
+listening,Pre - A1,10,11
+listening,A1 -,66,11
+listening,A1,130,11
+listening,A1 +,232,11
+listening,A2 -,132,11
+listening,A2,178,11
+listening,A2 +,94,11
+speak 1,Pre - A1,70,10
+speak 1,A1,58,10
+speak 1,A2,32,10
+speak 2,Pre - A1,76,10
+speak 2,A1,52,10
+speak 2,A2,32,10
+reading,Pre - A1,5,10
+reading,A1 -,7,10
+reading,A1,19,10
+reading,A1 +,25,10
+reading,A2 -,46,10
+reading,A2,39,10
+reading,A2 +,19,10
+listening,Pre - A1,2,10
+listening,A1 -,10,10
+listening,A1,31,10
+listening,A1 +,41,10
+listening,A2 -,21,10
+listening,A2,37,10
+listening,A2 +,17,10
+speak 1,Pre - A1,8,12
+speak 1,A1,7,12
+speak 1,A2,3,12
+speak 2,Pre - A1,9,12
+speak 2,A1,6,12
+speak 2,A2,3,12
+reading,Pre - A1,3,12
+reading,A1 -,1,12
+reading,A1,2,12
+reading,A1 +,2,12
+reading,A2 -,5,12
+reading,A2,0,12
+reading,A2 +,5,12
+listening,Pre - A1,0,12
+listening,A1 -,4,12
+listening,A1,5,12
+listening,A1 +,4,12
+listening,A2 -,2,12
+listening,A2,2,12
+listening,A2 +,0,12
