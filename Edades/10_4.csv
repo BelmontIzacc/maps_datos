@@ -2,36 +2,36 @@ seccion,calificacion,cantidad,genero
 speak 1,Pre - A1,100,0
 speak 1,A1,63,0
 speak 1,A2,30,0
-speak 1,Pre - A1,95,1
-speak 1,A1,64,1
-speak 1,A2,34,1
-speak 2,Pre - A1,12,0
-speak 2,A1,20,0
-speak 2,A2,37,0
-speak 2,Pre - A1,30,1
-speak 2,A1,44,1
-speak 2,A2,30,1
-reading,Pre - A1,20,0
-reading,A1 -,5,0
-reading,A1,26,0
-reading,A1 +,50,0
-reading,A2 -,47,0
-reading,A2,24,0
-reading,A2 +,27,0
-reading,Pre - A1,12,1
-reading,A1 -,84,1
-reading,A1,68,1
-reading,A1 +,39,1
-reading,A2 -,89,1
-reading,A2,68,1
-reading,A2 +,34,1
-listening,Pre - A1,6,0
-listening,A1 -,5,0
-listening,A1,26,0
-listening,A1 +,34,0
-listening,A2 -,46,0
-listening,A2,44,0
-listening,A2 +,30,0
+speak 2,Pre - A1,95,0
+speak 2,A1,64,0
+speak 2,A2,34,0
+reading,Pre - A1,12,0
+reading,A1 -,20,0
+reading,A1,37,0
+reading,A1 +,30,0
+reading,A2 -,44,0
+reading,A2,30,0
+reading,A2 +,20,0
+listening,Pre - A1,5,0
+listening,A1 -,26,0
+listening,A1,50,0
+listening,A1 +,47,0
+listening,A2 -,24,0
+listening,A2,27,0
+listening,A2 +,12,0
+speak 1,Pre - A1,84,1
+speak 1,A1,68,1
+speak 1,A2,39,1
+speak 2,Pre - A1,89,1
+speak 2,A1,68,1
+speak 2,A2,34,1
+reading,Pre - A1,6,1
+reading,A1 -,5,1
+reading,A1,26,1
+reading,A1 +,34,1
+reading,A2 -,46,1
+reading,A2,44,1
+reading,A2 +,30,1
 listening,Pre - A1,3,1
 listening,A1 -,22,1
 listening,A1,32,1
