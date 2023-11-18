@@ -1,12 +1,9 @@
-municipality,zone,correct_answers_speaking_part_1,qualification_speaking_part_1,correct_answers_speaking_part_2,qualification_speaking_part_2,correct_answers_speaking,qualification_speaking,correct_answers_listening,qualification_listening,correct_answers_reading_writing,qualification_reading
-Rio Bravo,A,4,A1,4,A1,4,A1,13,A1,21,A1
-Tampico,C,4,A1,4,A1,4,A1,13,A1,20,A1
-Padilla,B,4,A1,4,A1,4,A1,13,A1,20,A1
-Altamira,C,4,A1,4,A1,4,A1,13,A1,22,A1
-Cd. Madero,C,4,A1,4,A1,4,A1,13,A1,20,A1
-Cd. Victoria,B,4,A1,4,A1,4,A1,13,A1,21,A1
-Soto La Marina,B,4,A1,4,A1,4,A1,13,A1,20,A1
-Reynosa,A,4,A1,4,A1,4,A1,13,A1,21,A1
-Nvo. Laredo,A,4,A1,4,A1,4,A1,13,A1,20,A1
-Tula,C,4,A1,4,A1,4,A1,13,A1,20,A1
-Matamoros,A,4,A1,4,A1,4,A1,13,A1,21,A1
+Municipio,Zona,Promedio de aciertos en los examenes para la sección Speaking,Calificacion promedio en los examenes para la sección Speaking
+Cd. Victoria,B,2,A1
+Tula,C,1,A1
+Padilla,B,1,A1
+Cd. Madero,C,4,A1
+Tampico,C,2,A1
+Altamira,C,3,A1
+Río Bravo,A,3,A1
+Reynosa,A,2,A1

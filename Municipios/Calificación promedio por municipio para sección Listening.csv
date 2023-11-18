@@ -1,12 +1,9 @@
-municipality,zone,correct_answers_speaking_part_1,qualification_speaking_part_1,correct_answers_speaking_part_2,qualification_speaking_part_2,correct_answers_speaking,qualification_speaking,correct_answers_listening,qualification_listening,correct_answers_reading_writing,qualification_reading
-Rio Bravo,A,4,A1,4,A1,4,A1,13,A1,21,A1
-Tampico,C,4,A1,4,A1,4,A1,13,A1,20,A1
-Padilla,B,4,A1,4,A1,4,A1,13,A1,20,A1
-Altamira,C,4,A1,4,A1,4,A1,13,A1,22,A1
-Cd. Madero,C,4,A1,4,A1,4,A1,13,A1,20,A1
-Cd. Victoria,B,4,A1,4,A1,4,A1,13,A1,21,A1
-Soto La Marina,B,4,A1,4,A1,4,A1,13,A1,20,A1
-Reynosa,A,4,A1,4,A1,4,A1,13,A1,21,A1
-Nvo. Laredo,A,4,A1,4,A1,4,A1,13,A1,20,A1
-Tula,C,4,A1,4,A1,4,A1,13,A1,20,A1
-Matamoros,A,4,A1,4,A1,4,A1,13,A1,21,A1
+Municipio,Zona,Promedio de aciertos en los examenes para la sección Listening,Calificacion promedio en los examenes para la sección Listening,Promedio de aciertos en la sección de Listening asignada por revisores
+Cd. Victoria,B,16,A1 +,16
+Tula,C,16,A1 +,11
+Padilla,B,17,A2 -,13
+Cd. Madero,C,19,A2 -,16
+Tampico,C,17,A2 -,12
+Altamira,C,17,A2 -,17
+Río Bravo,A,14,A1 +,15
+Reynosa,A,16,A1 +,14
