@@ -1,5 +1,5 @@
-municipality,Unnamed: 0,Edad,gender,group,school_name,CCT,qualification_speaking_part1,qualification_speaking_part2,qualification_listening,qualification_reading,zone,school_number,qualification_speaking
-Tampico,3682.0,12.0,0.0,3.0,16.0,16.0,1.0,1.0,3.0,3.0,C,3.0,1.0
-Cd. Madero,3978.0,12.0,0.0,3.0,29.0,29.0,1.0,1.0,3.0,3.0,C,7.0,1.0
-Altamira,3722.0,12.0,1.0,2.0,45.0,45.0,1.0,1.0,3.0,3.0,C,10.0,1.0
-Tula,3993.0,12.0,1.0,2.0,26.0,26.0,1.0,1.0,3.0,3.0,C,3.0,1.0
+Zona,Municipio,Promedio de aciertos en los examenes para la sección Listening,Calificacion promedio en los examenes para la sección Listening,Promedio de aciertos en la sección de Listening asignada por revisores
+C,Tula,16,A1 +,11
+C,Cd. Madero,19,A2 -,16
+C,Tampico,17,A2 -,12
+C,Altamira,17,A2 -,17

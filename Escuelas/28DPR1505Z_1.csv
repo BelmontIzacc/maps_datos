@@ -1,5 +1,5 @@
-Seccion,Calificacion
-Speaking Part 1,A1
-Speaking Part 2,A1
-Listening,A1 +
-Reading,A1 +
+Sección,Aciertos promedio,Calificación,Número de estudiantes con esa calificación por sección,Promedio de aciertos asignada por revisores
+Speaking Part 1,1,A1,9,2
+Speaking Part 2,1,A1,16,3
+Listening,11,A1,10,12
+Reading,21,A1,16,17

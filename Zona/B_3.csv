@@ -1,21 +1,21 @@
 seccion,calificacion,cantidad
-speak 1,Pre - A1,726
-speak 1,A1,704
-speak 1,A2,716
-speak 2,Pre - A1,692
-speak 2,A1,741
-speak 2,A2,713
-reading,Pre - A1,284
-reading,A1 -,308
-reading,A1,314
-reading,A1 +,315
-reading,A2 -,327
-reading,A2,298
-reading,A2 +,300
-listening,Pre - A1,256
-listening,A1 -,344
-listening,A1,331
-listening,A1 +,287
-listening,A2 -,306
-listening,A2,311
-listening,A2 +,311
+speak 1,Pre - A1,591
+speak 1,A1,421
+speak 1,A2,196
+speak 2,Pre - A1,593
+speak 2,A1,439
+speak 2,A2,176
+reading,Pre - A1,75
+reading,A1 -,91
+reading,A1,203
+reading,A1 +,202
+reading,A2 -,260
+reading,A2,239
+reading,A2 +,135
+listening,Pre - A1,17
+listening,A1 -,141
+listening,A1,268
+listening,A1 +,338
+listening,A2 -,166
+listening,A2,175
+listening,A2 +,100

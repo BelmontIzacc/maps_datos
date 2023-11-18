@@ -1,41 +1,41 @@
 seccion,calificacion,cantidad,genero
-speak 1,Pre - A1,503,0
-speak 1,A1,484,0
-speak 1,A2,430,0
-speak 1,Pre - A1,479,1
-speak 1,A1,469,1
-speak 1,A2,469,1
-speak 2,Pre - A1,216,0
-speak 2,A1,200,0
-speak 2,A2,221,0
-speak 2,Pre - A1,190,1
-speak 2,A1,191,1
-speak 2,A2,196,1
-reading,Pre - A1,203,0
-reading,A1 -,202,0
-reading,A1,192,0
-reading,A1 +,216,0
-reading,A2 -,194,0
-reading,A2,216,0
-reading,A2 +,216,0
-reading,Pre - A1,181,1
-reading,A1 -,463,1
-reading,A1,455,1
-reading,A1 +,474,1
-reading,A2 -,459,1
-reading,A2,465,1
-reading,A2 +,468,1
-listening,Pre - A1,194,0
-listening,A1 -,188,0
-listening,A1,194,0
-listening,A1 +,214,0
-listening,A2 -,191,0
-listening,A2,202,0
-listening,A2 +,209,0
-listening,Pre - A1,170,1
-listening,A1 -,220,1
-listening,A1,194,1
-listening,A1 +,225,1
-listening,A2 -,181,1
-listening,A2,199,1
-listening,A2 +,203,1
+speak 1,Pre - A1,198,0
+speak 1,A1,186,0
+speak 1,A2,104,0
+speak 1,Pre - A1,224,1
+speak 1,A1,167,1
+speak 1,A2,97,1
+speak 2,Pre - A1,22,0
+speak 2,A1,32,0
+speak 2,A2,78,0
+speak 2,Pre - A1,73,1
+speak 2,A1,114,1
+speak 2,A2,109,1
+reading,Pre - A1,58,0
+reading,A1 -,6,0
+reading,A1,52,0
+reading,A1 +,90,0
+reading,A2 -,127,0
+reading,A2,68,0
+reading,A2 +,101,0
+reading,Pre - A1,42,1
+reading,A1 -,196,1
+reading,A1,209,1
+reading,A1 +,127,1
+reading,A2 -,196,1
+reading,A2,208,1
+reading,A2 +,128,1
+listening,Pre - A1,11,0
+listening,A1 -,6,0
+listening,A1,50,0
+listening,A1 +,73,0
+listening,A2 -,123,0
+listening,A2,171,0
+listening,A2 +,98,0
+listening,Pre - A1,6,1
+listening,A1 -,28,1
+listening,A1,76,1
+listening,A1 +,150,1
+listening,A2 -,87,1
+listening,A2,116,1
+listening,A2 +,69,1
