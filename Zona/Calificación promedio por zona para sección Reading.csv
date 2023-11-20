@@ -1,4 +1,4 @@
-Zona,Promedio de aciertos en los examenes para la sección Listening,Calificacion promedio en los examenes para la sección Reading/Writing,Promedio de aciertos en la sección de Reading/Writing asignada por revisores
-A,24,A1,20
-B,27,A1 +,24
-C,29,A1 +,22
+Zona,Promedio de aciertos correctos para la sección Listening,Calificación promedio para la sección Reading/Writing,Promedio de aciertos en la sección de Reading/Writing asignada por revisores
+Norte,24,A1,20
+Centro,27,A1 +,24
+Sur,29,A1 +,22
