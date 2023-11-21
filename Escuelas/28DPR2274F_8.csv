@@ -1,8 +1,8 @@
-question,number_correct_answers,percentage_correct_answers,Top
-reading_1_2,2.0,4.444444444444445,1
-reading_2_4,3.0,6.666666666666667,2
-listening_1_4,10.0,22.22222222222222,3
-reading_1_7,11.0,24.444444444444443,4
-listening_1_2,17.0,37.77777777777778,5
-listening_3_D,18.0,40.0,6
-listening_2_6,18.0,40.0,7
+Top,Pregunta,Porcentaje de respuestas correctas,Número de respuestas correctas
+1,reading_1_2,4.44,2.0
+2,reading_2_4,6.67,3.0
+3,listening_1_4,22.22,10.0
+4,reading_1_7,24.44,11.0
+5,listening_1_2,37.78,17.0
+6,listening_3_D,40.0,18.0
+7,listening_2_6,40.0,18.0

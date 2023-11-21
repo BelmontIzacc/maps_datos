@@ -1,41 +1,41 @@
-seccion,calificacion,cantidad,genero
-speak 1,Pre - A1,565,0
-speak 1,A1,382,0
-speak 1,A2,190,0
-speak 2,Pre - A1,574,0
-speak 2,A1,380,0
-speak 2,A2,183,0
-reading,Pre - A1,81,0
-reading,A1 -,104,0
-reading,A1,194,0
-reading,A1 +,182,0
-reading,A2 -,221,0
-reading,A2,213,0
-reading,A2 +,134,0
-listening,Pre - A1,25,0
-listening,A1 -,162,0
-listening,A1,240,0
-listening,A1 +,278,0
-listening,A2 -,151,0
-listening,A2,174,0
-listening,A2 +,101,0
-speak 1,Pre - A1,507,1
-speak 1,A1,437,1
-speak 1,A2,220,1
-speak 2,Pre - A1,502,1
-speak 2,A1,446,1
-speak 2,A2,216,1
-reading,Pre - A1,47,1
-reading,A1 -,56,1
-reading,A1,151,1
-reading,A1 +,181,1
-reading,A2 -,254,1
-reading,A2,318,1
-reading,A2 +,154,1
-listening,Pre - A1,11,1
-listening,A1 -,108,1
-listening,A1,231,1
-listening,A1 +,322,1
-listening,A2 -,164,1
-listening,A2,219,1
-listening,A2 +,109,1
+Sección,Calificación,Cantidad de alumnos con esa calificación,Género
+speak 1,Pre - A1,565,Masculino
+speak 1,A1,382,Masculino
+speak 1,A2,190,Masculino
+speak 2,Pre - A1,574,Masculino
+speak 2,A1,380,Masculino
+speak 2,A2,183,Masculino
+reading,Pre - A1,81,Masculino
+reading,A1 -,104,Masculino
+reading,A1,194,Masculino
+reading,A1 +,182,Masculino
+reading,A2 -,221,Masculino
+reading,A2,213,Masculino
+reading,A2 +,134,Masculino
+listening,Pre - A1,25,Masculino
+listening,A1 -,162,Masculino
+listening,A1,240,Masculino
+listening,A1 +,278,Masculino
+listening,A2 -,151,Masculino
+listening,A2,174,Masculino
+listening,A2 +,101,Masculino
+speak 1,Pre - A1,507,Femenino
+speak 1,A1,437,Femenino
+speak 1,A2,220,Femenino
+speak 2,Pre - A1,502,Femenino
+speak 2,A1,446,Femenino
+speak 2,A2,216,Femenino
+reading,Pre - A1,47,Femenino
+reading,A1 -,56,Femenino
+reading,A1,151,Femenino
+reading,A1 +,181,Femenino
+reading,A2 -,254,Femenino
+reading,A2,318,Femenino
+reading,A2 +,154,Femenino
+listening,Pre - A1,11,Femenino
+listening,A1 -,108,Femenino
+listening,A1,231,Femenino
+listening,A1 +,322,Femenino
+listening,A2 -,164,Femenino
+listening,A2,219,Femenino
+listening,A2 +,109,Femenino
