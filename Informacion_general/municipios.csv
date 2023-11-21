@@ -1,9 +1,9 @@
-,municipality,reviewer_answers_speaking_part_2,reviewer_answers_listening,reviewer_answers_reading_writing,reviewer_answers_speaking_part_1,correct_answers_listening,correct_answers_reading_writing,correct_answers_speaking_part_1,correct_answers_speaking_part_2,qualification_speaking_part_1,qualification_speaking_part_2,qualification_listening,qualification_reading,correct_answers_speaking,qualification_speaking,best_school,worst_school,best_section,worst_section,students_number,boy,girl,zona,school_number
-0,Cd. Victoria,2,15,24,2,16,27,2,2,A1,A1,A1 +,A1 +,2,A1,28DPR1169O - LEONA VICARIO,28DPR2149H - IGNACIO JOSE ALLENDE,Reading/Writing,Speaking,1155,580,575,Centro,20
-1,Tula,0,11,13,1,16,28,1,1,A1,A1,A1 +,A1 +,1,A1,28DPR1340H - MIGUEL HIDALGO,28DPR1344D - NIÑOS HEROES,Reading/Writing,Speaking,146,72,74,Sur,3
-2,Padilla,1,12,17,1,17,29,2,1,A1,A1,A2 -,A1 +,1,A1,28DPR1748W - MIGUEL HIDALGO,28DPR1748W - MIGUEL HIDALGO,Reading/Writing,Speaking,53,23,30,Centro,1
-3,Cd. Madero,4,15,24,3,19,30,4,3,A1,A1,A2 -,A1 +,3,A1,28DPR1343E - ARMANDO BARBA,28DPR2334D - PROFA. JUANA MARIA CABRERA SALINAS,Reading/Writing,Speaking,468,230,238,Sur,7
-4,Tampico,3,12,16,2,17,27,2,2,A1,A1,A2 -,A1 +,2,A1,28DPR2182P - ARTEMIO VILLAFAÑA PADILLA,28DPR1454J - JUSTO SIERRA,Listening,Speaking,222,91,131,Sur,3
-5,Altamira,3,16,28,3,17,29,3,3,A1,A1,A2 -,A1 +,3,A1,28DPR2377B - NUEVO SANTANDER,28DPR2562Y - 20 DE NOVIEMBRE,Reading/Writing,Speaking,184,95,89,Sur,10
-6,Río Bravo,3,15,18,2,14,23,2,3,A1,A1,A1 +,A1,3,A1,28DPR0829Z - MIGUEL HIDALGO,28DPR0979G - MAGDALENO AGUILAR,Reading/Writing,Speaking,161,82,79,Norte,4
-7,Reynosa,1,13,20,1,16,25,2,2,A1,A1,A1 +,A1 +,2,A1,28DPR0754Z - FORD NUM. 16,28DPR2081R - FELIPE ANGELES,Reading/Writing,Speaking,340,179,161,Norte,15
+,municipality,reviewer_answers_speaking_part_2,reviewer_answers_listening,reviewer_answers_reading_writing,reviewer_answers_speaking_part_1,zone,correct_answers_listening,correct_answers_reading_writing,correct_answers_speaking_part_1,correct_answers_speaking_part_2,qualification_speaking_part_1,qualification_speaking_part_2,qualification_listening,qualification_reading,correct_answers_speaking,qualification_speaking,best_school,worst_school,best_section,worst_section,students_number,boy,girl,schools_number
+0,Cd. Victoria,2,15,24,2,1.0,16,27,2,2,A1,A1,A1 +,A1 +,2,A1,28DPR1169O - LEONA VICARIO,28DPR2149H - IGNACIO JOSE ALLENDE,Reading/Writing,Speaking,1155,580,575,19
+1,Tula,0,11,13,1,2.0,16,28,1,1,A1,A1,A1 +,A1 +,1,A1,28DPR1340H - MIGUEL HIDALGO,28DPR1344D - NIÑOS HEROES,Reading/Writing,Speaking,146,72,74,3
+2,Padilla,1,12,17,1,1.0,17,29,2,1,A1,A1,A2 -,A1 +,1,A1,28DPR1748W - MIGUEL HIDALGO,28DPR1748W - MIGUEL HIDALGO,Reading/Writing,Speaking,53,23,30,1
+3,Cd. Madero,4,15,24,3,2.0,19,30,4,3,A1,A1,A2 -,A1 +,3,A1,28DPR1343E - ARMANDO BARBA,28DPR2334D - PROFA. JUANA MARIA CABRERA SALINAS,Reading/Writing,Speaking,468,230,238,7
+4,Tampico,3,12,16,2,2.0,17,27,2,2,A1,A1,A2 -,A1 +,2,A1,28DPR2182P - ARTEMIO VILLAFAÑA PADILLA,28DPR1454J - JUSTO SIERRA,Listening,Speaking,222,91,131,3
+5,Altamira,3,16,28,3,2.0,17,29,3,3,A1,A1,A2 -,A1 +,3,A1,28DPR2377B - NUEVO SANTANDER,28DPR2562Y - 20 DE NOVIEMBRE,Reading/Writing,Speaking,184,95,89,4
+6,Río Bravo,3,15,18,2,0.0,14,23,2,3,A1,A1,A1 +,A1,3,A1,28DPR0829Z - MIGUEL HIDALGO,28DPR0979G - MAGDALENO AGUILAR,Reading/Writing,Speaking,161,82,79,4
+7,Reynosa,1,13,20,1,0.0,16,25,2,2,A1,A1,A1 +,A1 +,2,A1,28DPR0754Z - FORD NUM. 16,28DPR2081R - FELIPE ANGELES,Reading/Writing,Speaking,340,179,161,9
