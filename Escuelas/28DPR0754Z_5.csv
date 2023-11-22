@@ -1,41 +1,41 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Edad
-speak 1,Pre - A1,7,11
-speak 1,A1,12,11
-speak 1,A2,9,11
-speak 2,Pre - A1,7,11
-speak 2,A1,12,11
-speak 2,A2,9,11
-reading,Pre - A1,3,11
-reading,A1 -,2,11
-reading,A1,3,11
-reading,A1 +,7,11
-reading,A2 -,5,11
+speak 1,Pre - A1,10,11
+speak 1,A1,19,11
+speak 1,A2,17,11
+speak 2,Pre - A1,11,11
+speak 2,A1,18,11
+speak 2,A2,17,11
+reading,Pre - A1,5,11
+reading,A1 -,5,11
+reading,A1,5,11
+reading,A1 +,9,11
+reading,A2 -,12,11
 reading,A2,4,11
-reading,A2 +,4,11
-listening,Pre - A1,1,11
-listening,A1 -,3,11
-listening,A1,6,11
-listening,A1 +,12,11
+reading,A2 +,6,11
+listening,Pre - A1,4,11
+listening,A1 -,5,11
+listening,A1,11,11
+listening,A1 +,15,11
 listening,A2 -,3,11
-listening,A2,2,11
-listening,A2 +,1,11
-speak 1,Pre - A1,0,10
-speak 1,A1,0,10
+listening,A2,5,11
+listening,A2 +,3,11
+speak 1,Pre - A1,1,10
+speak 1,A1,6,10
 speak 1,A2,1,10
-speak 2,Pre - A1,0,10
-speak 2,A1,0,10
-speak 2,A2,1,10
-reading,Pre - A1,0,10
-reading,A1 -,0,10
-reading,A1,0,10
+speak 2,Pre - A1,1,10
+speak 2,A1,5,10
+speak 2,A2,2,10
+reading,Pre - A1,1,10
+reading,A1 -,3,10
+reading,A1,1,10
 reading,A1 +,0,10
-reading,A2 -,1,10
-reading,A2,0,10
+reading,A2 -,2,10
+reading,A2,1,10
 reading,A2 +,0,10
 listening,Pre - A1,0,10
-listening,A1 -,0,10
-listening,A1,0,10
-listening,A1 +,0,10
-listening,A2 -,1,10
-listening,A2,0,10
+listening,A1 -,2,10
+listening,A1,1,10
+listening,A1 +,2,10
+listening,A2 -,2,10
+listening,A2,1,10
 listening,A2 +,0,10
