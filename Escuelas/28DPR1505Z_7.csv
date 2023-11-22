@@ -1,8 +1,8 @@
 Top,Pregunta,Porcentaje de respuestas correctas,Número de respuestas correctas
-1,reading_3.1_2,96.15,50.0
-2,reading_3.1_1,92.31,48.0
-3,reading_3.2_3,92.31,48.0
-4,reading_3.1_4,90.38,47.0
-5,reading_3.1_5,86.54,45.0
-6,reading_3.1_3,86.54,45.0
-7,reading_4.1_1,76.92,40.0
+1,reading_3.1_2,97.5,78.0
+2,reading_3.1_1,93.75,75.0
+3,reading_3.2_3,93.75,75.0
+4,reading_3.1_4,92.5,74.0
+5,reading_3.1_3,90.0,72.0
+6,reading_3.1_5,90.0,72.0
+7,reading_4.1_1,78.75,63.0
