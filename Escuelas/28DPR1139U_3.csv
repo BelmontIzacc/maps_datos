@@ -1,0 +1,21 @@
+Sección,Calificación,Cantidad de alumnos con esa calificación
+speak 1,Pre - A1,28
+speak 1,A1,24
+speak 1,A2,3
+speak 2,Pre - A1,27
+speak 2,A1,25
+speak 2,A2,3
+reading,Pre - A1,2
+reading,A1 -,0
+reading,A1,1
+reading,A1 +,3
+reading,A2 -,6
+reading,A2,17
+reading,A2 +,26
+listening,Pre - A1,0
+listening,A1 -,0
+listening,A1,3
+listening,A1 +,9
+listening,A2 -,13
+listening,A2,17
+listening,A2 +,13
