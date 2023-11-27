@@ -19,8 +19,8 @@ listening,A1 +,2,10
 listening,A2 -,0,10
 listening,A2,0,10
 listening,A2 +,0,10
-speak 1,Pre - A1,32,11
-speak 1,A1,14,11
+speak 1,Pre - A1,31,11
+speak 1,A1,15,11
 speak 1,A2,1,11
 speak 2,Pre - A1,21,11
 speak 2,A1,22,11

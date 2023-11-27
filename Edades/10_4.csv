@@ -1,41 +1,41 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Género
-speak 1,Pre - A1,175,Masculino
-speak 1,A1,107,Masculino
-speak 1,A2,52,Masculino
-speak 2,Pre - A1,173,Masculino
-speak 2,A1,108,Masculino
-speak 2,A2,53,Masculino
-reading,Pre - A1,23,Masculino
-reading,A1 -,38,Masculino
-reading,A1,61,Masculino
-reading,A1 +,55,Masculino
-reading,A2 -,67,Masculino
-reading,A2,58,Masculino
-reading,A2 +,32,Masculino
-listening,Pre - A1,9,Masculino
-listening,A1 -,43,Masculino
-listening,A1,88,Masculino
-listening,A1 +,83,Masculino
-listening,A2 -,34,Masculino
-listening,A2,49,Masculino
-listening,A2 +,26,Masculino
-speak 1,Pre - A1,174,Femenino
-speak 1,A1,119,Femenino
-speak 1,A2,58,Femenino
-speak 2,Pre - A1,179,Femenino
-speak 2,A1,121,Femenino
-speak 2,A2,51,Femenino
-reading,Pre - A1,24,Femenino
-reading,A1 -,17,Femenino
-reading,A1,47,Femenino
-reading,A1 +,65,Femenino
-reading,A2 -,73,Femenino
-reading,A2,82,Femenino
-reading,A2 +,43,Femenino
+speak 1,Pre - A1,139,Masculino
+speak 1,A1,187,Masculino
+speak 1,A2,76,Masculino
+speak 2,Pre - A1,131,Masculino
+speak 2,A1,198,Masculino
+speak 2,A2,73,Masculino
+reading,Pre - A1,28,Masculino
+reading,A1 -,45,Masculino
+reading,A1,80,Masculino
+reading,A1 +,63,Masculino
+reading,A2 -,73,Masculino
+reading,A2,75,Masculino
+reading,A2 +,37,Masculino
+listening,Pre - A1,11,Masculino
+listening,A1 -,54,Masculino
+listening,A1,102,Masculino
+listening,A1 +,100,Masculino
+listening,A2 -,41,Masculino
+listening,A2,59,Masculino
+listening,A2 +,32,Masculino
+speak 1,Pre - A1,140,Femenino
+speak 1,A1,203,Femenino
+speak 1,A2,85,Femenino
+speak 2,Pre - A1,134,Femenino
+speak 2,A1,217,Femenino
+speak 2,A2,77,Femenino
+reading,Pre - A1,28,Femenino
+reading,A1 -,22,Femenino
+reading,A1,67,Femenino
+reading,A1 +,74,Femenino
+reading,A2 -,85,Femenino
+reading,A2,94,Femenino
+reading,A2 +,58,Femenino
 listening,Pre - A1,4,Femenino
-listening,A1 -,48,Femenino
-listening,A1,67,Femenino
-listening,A1 +,96,Femenino
-listening,A2 -,55,Femenino
-listening,A2,49,Femenino
-listening,A2 +,31,Femenino
+listening,A1 -,60,Femenino
+listening,A1,85,Femenino
+listening,A1 +,114,Femenino
+listening,A2 -,64,Femenino
+listening,A2,58,Femenino
+listening,A2 +,42,Femenino

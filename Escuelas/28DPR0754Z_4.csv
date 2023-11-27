@@ -1,9 +1,9 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Género
-speak 1,Pre - A1,5,Masculino
-speak 1,A1,12,Masculino
+speak 1,Pre - A1,3,Masculino
+speak 1,A1,14,Masculino
 speak 1,A2,10,Masculino
-speak 2,Pre - A1,2,Masculino
-speak 2,A1,15,Masculino
+speak 2,Pre - A1,1,Masculino
+speak 2,A1,16,Masculino
 speak 2,A2,10,Masculino
 reading,Pre - A1,1,Masculino
 reading,A1 -,4,Masculino
@@ -19,11 +19,11 @@ listening,A1 +,12,Masculino
 listening,A2 -,4,Masculino
 listening,A2,3,Masculino
 listening,A2 +,0,Masculino
-speak 1,Pre - A1,6,Femenino
-speak 1,A1,13,Femenino
+speak 1,Pre - A1,4,Femenino
+speak 1,A1,15,Femenino
 speak 1,A2,8,Femenino
-speak 2,Pre - A1,10,Femenino
-speak 2,A1,8,Femenino
+speak 2,Pre - A1,5,Femenino
+speak 2,A1,13,Femenino
 speak 2,A2,9,Femenino
 reading,Pre - A1,5,Femenino
 reading,A1 -,4,Femenino

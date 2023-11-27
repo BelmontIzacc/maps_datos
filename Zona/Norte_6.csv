@@ -1,6 +1,6 @@
 Top,Municipio,Porcentaje de aciertos correctos,Porcentaje de aciertos correctos para la sección Listening,Porcentaje de aciertos correctos para la sección Reading/Writing,Porcentaje de aciertos correctos para la sección Speaking parte 1,Porcentaje de aciertos correctos para la sección Speaking parte 2,Porcentaje de aciertos correctos para la sección Speaking,Calificación promedio en los exámenes para la sección Listening,Calificación promedio en los exámenes para la sección Reading/Writing,Calificación promedio en los exámenes para la sección Speaking parte 1,Calificación promedio en los exámenes para la sección Speaking parte 2,Calificación promedio en los exámenes para la sección Speaking,Promedio de aciertos en los exámenes para la sección Listening,Promedio de aciertos en los exámenes para la sección Reading/Writing,Promedio de aciertos en los exámenes para la sección Speaking parte 1,Promedio de aciertos en los exámenes para la sección Speaking parte 2,Promedio de aciertos en los exámenes para la sección Speaking
-1,Matamoros,52.88,62.480000000000004,67.9,27.75,28.75,28.25,A1 +,A1 +,A1,A1,A1,16,27,2,2,2
-2,Reynosa,52.49,62.6,67.68,27.12,27.25,27.19,A1 +,A1 +,A1,A1,A1,16,27,2,2,2
-3,Soto la Marina,51.7,68.4,68.25,19.25,17.62,18.44,A2 -,A1 +,A1,A1,A1,17,27,2,1,1
-4,Nvo. Laredo,51.27,64.6,69.52,19.75,19.62,19.69,A1 +,A1 +,A1,A1,A1,16,28,2,2,2
-5,Río Bravo,47.55,57.24,60.28,21.75,28.5,25.12,A1 +,A1,A1,A1,A1,14,24,2,2,2
+1,Matamoros,56.74,63.12,66.97,39.25,41.0,40.12,A1 +,A1 +,A1,A1,A1,16,27,3,3,3
+2,Nvo. Laredo,56.63,65.64,70.05,33.88,34.5,34.19,A1 +,A1 +,A1,A1,A1,16,28,3,3,3
+3,Soto la Marina,53.88,68.4,68.25,27.0,23.0,25.0,A2 -,A1 +,A1,A1,A1,17,27,2,2,2
+4,Reynosa,53.86,62.75999999999999,67.82,30.75,31.25,31.0,A1 +,A1 +,A1,A1,A1,16,27,2,2,2
+5,Río Bravo,51.33,57.28,60.2,33.25,39.75,36.5,A1 +,A1,A1,A1,A1,14,24,3,3,3

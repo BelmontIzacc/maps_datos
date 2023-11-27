@@ -2,8 +2,8 @@ Sección,Calificación,Cantidad de alumnos con esa calificación,Edad
 speak 1,Pre - A1,36,11
 speak 1,A1,34,11
 speak 1,A2,16,11
-speak 2,Pre - A1,34,11
-speak 2,A1,36,11
+speak 2,Pre - A1,33,11
+speak 2,A1,37,11
 speak 2,A2,16,11
 reading,Pre - A1,6,11
 reading,A1 -,8,11
@@ -22,8 +22,8 @@ listening,A2 +,7,11
 speak 1,Pre - A1,9,10
 speak 1,A1,7,10
 speak 1,A2,0,10
-speak 2,Pre - A1,8,10
-speak 2,A1,7,10
+speak 2,Pre - A1,7,10
+speak 2,A1,8,10
 speak 2,A2,1,10
 reading,Pre - A1,1,10
 reading,A1 -,2,10
