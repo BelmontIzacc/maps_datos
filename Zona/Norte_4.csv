@@ -1,41 +1,41 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Género
-speak 1,Pre - A1,625,Masculino
-speak 1,A1,730,Masculino
-speak 1,A2,332,Masculino
-speak 2,Pre - A1,588,Masculino
-speak 2,A1,757,Masculino
-speak 2,A2,342,Masculino
-reading,Pre - A1,135,Masculino
-reading,A1 -,153,Masculino
-reading,A1,283,Masculino
-reading,A1 +,262,Masculino
-reading,A2 -,296,Masculino
-reading,A2,348,Masculino
-reading,A2 +,187,Masculino
-listening,Pre - A1,61,Masculino
-listening,A1 -,245,Masculino
-listening,A1,335,Masculino
-listening,A1 +,401,Masculino
-listening,A2 -,208,Masculino
-listening,A2,224,Masculino
-listening,A2 +,196,Masculino
-speak 1,Pre - A1,513,Femenino
-speak 1,A1,754,Femenino
-speak 1,A2,376,Femenino
-speak 2,Pre - A1,477,Femenino
-speak 2,A1,801,Femenino
-speak 2,A2,365,Femenino
-reading,Pre - A1,108,Femenino
-reading,A1 -,119,Femenino
-reading,A1,260,Femenino
-reading,A1 +,278,Femenino
-reading,A2 -,284,Femenino
-reading,A2,364,Femenino
-reading,A2 +,219,Femenino
+speak 1,Pre - A1,671,Masculino
+speak 1,A1,799,Masculino
+speak 1,A2,351,Masculino
+speak 2,Pre - A1,642,Masculino
+speak 2,A1,813,Masculino
+speak 2,A2,366,Masculino
+reading,Pre - A1,148,Masculino
+reading,A1 -,166,Masculino
+reading,A1,303,Masculino
+reading,A1 +,287,Masculino
+reading,A2 -,330,Masculino
+reading,A2,368,Masculino
+reading,A2 +,195,Masculino
+listening,Pre - A1,70,Masculino
+listening,A1 -,270,Masculino
+listening,A1,376,Masculino
+listening,A1 +,428,Masculino
+listening,A2 -,225,Masculino
+listening,A2,234,Masculino
+listening,A2 +,200,Masculino
+speak 1,Pre - A1,545,Femenino
+speak 1,A1,812,Femenino
+speak 1,A2,413,Femenino
+speak 2,Pre - A1,510,Femenino
+speak 2,A1,865,Femenino
+speak 2,A2,395,Femenino
+reading,Pre - A1,112,Femenino
+reading,A1 -,124,Femenino
+reading,A1,274,Femenino
+reading,A1 +,295,Femenino
+reading,A2 -,315,Femenino
+reading,A2,407,Femenino
+reading,A2 +,232,Femenino
 listening,Pre - A1,23,Femenino
-listening,A1 -,165,Femenino
-listening,A1,334,Femenino
-listening,A1 +,402,Femenino
-listening,A2 -,252,Femenino
-listening,A2,254,Femenino
-listening,A2 +,206,Femenino
+listening,A1 -,174,Femenino
+listening,A1,367,Femenino
+listening,A1 +,440,Femenino
+listening,A2 -,270,Femenino
+listening,A2,271,Femenino
+listening,A2 +,218,Femenino

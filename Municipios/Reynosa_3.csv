@@ -1,21 +1,21 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación
-speak 1,Pre - A1,422
-speak 1,A1,371
-speak 1,A2,175
-speak 2,Pre - A1,409
-speak 2,A1,378
-speak 2,A2,181
-reading,Pre - A1,75
-reading,A1 -,86
-reading,A1,164
-reading,A1 +,142
-reading,A2 -,160
-reading,A2,201
-reading,A2 +,128
-listening,Pre - A1,26
-listening,A1 -,131
-listening,A1,183
-listening,A1 +,223
-listening,A2 -,136
-listening,A2,142
-listening,A2 +,124
+speak 1,Pre - A1,462
+speak 1,A1,445
+speak 1,A2,191
+speak 2,Pre - A1,454
+speak 2,A1,452
+speak 2,A2,192
+reading,Pre - A1,81
+reading,A1 -,92
+reading,A1,178
+reading,A1 +,158
+reading,A2 -,194
+reading,A2,242
+reading,A2 +,141
+listening,Pre - A1,33
+listening,A1 -,152
+listening,A1,217
+listening,A1 +,246
+listening,A2 -,157
+listening,A2,155
+listening,A2 +,135
