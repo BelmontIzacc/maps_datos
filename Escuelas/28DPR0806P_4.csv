@@ -1,0 +1,41 @@
+Sección,Calificación,Cantidad de alumnos con esa calificación,Género
+speak 1,Pre - A1,19,Masculino
+speak 1,A1,10,Masculino
+speak 1,A2,0,Masculino
+speak 2,Pre - A1,19,Masculino
+speak 2,A1,10,Masculino
+speak 2,A2,0,Masculino
+reading,Pre - A1,2,Masculino
+reading,A1 -,6,Masculino
+reading,A1,12,Masculino
+reading,A1 +,7,Masculino
+reading,A2 -,0,Masculino
+reading,A2,1,Masculino
+reading,A2 +,1,Masculino
+listening,Pre - A1,2,Masculino
+listening,A1 -,6,Masculino
+listening,A1,14,Masculino
+listening,A1 +,5,Masculino
+listening,A2 -,0,Masculino
+listening,A2,1,Masculino
+listening,A2 +,1,Masculino
+speak 1,Pre - A1,17,Femenino
+speak 1,A1,7,Femenino
+speak 1,A2,0,Femenino
+speak 2,Pre - A1,17,Femenino
+speak 2,A1,7,Femenino
+speak 2,A2,0,Femenino
+reading,Pre - A1,2,Femenino
+reading,A1 -,3,Femenino
+reading,A1,7,Femenino
+reading,A1 +,9,Femenino
+reading,A2 -,1,Femenino
+reading,A2,2,Femenino
+reading,A2 +,0,Femenino
+listening,Pre - A1,1,Femenino
+listening,A1 -,5,Femenino
+listening,A1,11,Femenino
+listening,A1 +,4,Femenino
+listening,A2 -,2,Femenino
+listening,A2,1,Femenino
+listening,A2 +,0,Femenino
