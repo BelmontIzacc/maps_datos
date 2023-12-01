@@ -19,22 +19,22 @@ listening,A1 +,6,Masculino
 listening,A2 -,1,Masculino
 listening,A2,4,Masculino
 listening,A2 +,5,Masculino
-speak 1,Pre - A1,5,Femenino
+speak 1,Pre - A1,4,Femenino
 speak 1,A1,25,Femenino
 speak 1,A2,0,Femenino
-speak 2,Pre - A1,14,Femenino
+speak 2,Pre - A1,13,Femenino
 speak 2,A1,16,Femenino
 speak 2,A2,0,Femenino
 reading,Pre - A1,1,Femenino
 reading,A1 -,1,Femenino
-reading,A1,6,Femenino
+reading,A1,5,Femenino
 reading,A1 +,6,Femenino
 reading,A2 -,7,Femenino
 reading,A2,8,Femenino
 reading,A2 +,1,Femenino
 listening,Pre - A1,0,Femenino
 listening,A1 -,1,Femenino
-listening,A1,10,Femenino
+listening,A1,9,Femenino
 listening,A1 +,8,Femenino
 listening,A2 -,0,Femenino
 listening,A2,5,Femenino

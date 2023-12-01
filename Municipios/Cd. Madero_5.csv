@@ -1,39 +1,39 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Edad
 speak 1,Pre - A1,73,11
-speak 1,A1,165,11
-speak 1,A2,151,11
+speak 1,A1,163,11
+speak 1,A2,150,11
 speak 2,Pre - A1,65,11
-speak 2,A1,183,11
-speak 2,A2,141,11
+speak 2,A1,181,11
+speak 2,A2,140,11
 reading,Pre - A1,10,11
 reading,A1 -,10,11
 reading,A1,34,11
-reading,A1 +,46,11
+reading,A1 +,45,11
 reading,A2 -,79,11
-reading,A2,126,11
-reading,A2 +,83,11
+reading,A2,125,11
+reading,A2 +,82,11
 listening,Pre - A1,0,11
 listening,A1 -,25,11
 listening,A1,52,11
 listening,A1 +,97,11
-listening,A2 -,62,11
+listening,A2 -,59,11
 listening,A2,90,11
 listening,A2 +,63,11
 speak 1,Pre - A1,18,10
-speak 1,A1,38,10
+speak 1,A1,37,10
 speak 1,A2,20,10
 speak 2,Pre - A1,14,10
-speak 2,A1,41,10
+speak 2,A1,40,10
 speak 2,A2,21,10
 reading,Pre - A1,2,10
 reading,A1 -,3,10
-reading,A1,9,10
+reading,A1,8,10
 reading,A1 +,5,10
 reading,A2 -,20,10
 reading,A2,25,10
 reading,A2 +,12,10
 listening,Pre - A1,1,10
-listening,A1 -,3,10
+listening,A1 -,2,10
 listening,A1,14,10
 listening,A1 +,16,10
 listening,A2 -,9,10

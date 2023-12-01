@@ -1,29 +1,29 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Género
 speak 1,Pre - A1,88,Masculino
-speak 1,A1,146,Masculino
-speak 1,A2,69,Masculino
-speak 2,Pre - A1,88,Masculino
-speak 2,A1,149,Masculino
-speak 2,A2,66,Masculino
+speak 1,A1,142,Masculino
+speak 1,A2,68,Masculino
+speak 2,Pre - A1,86,Masculino
+speak 2,A1,147,Masculino
+speak 2,A2,65,Masculino
 reading,Pre - A1,29,Masculino
-reading,A1 -,36,Masculino
-reading,A1,66,Masculino
-reading,A1 +,34,Masculino
-reading,A2 -,56,Masculino
-reading,A2,53,Masculino
+reading,A1 -,35,Masculino
+reading,A1,65,Masculino
+reading,A1 +,33,Masculino
+reading,A2 -,55,Masculino
+reading,A2,52,Masculino
 reading,A2 +,29,Masculino
 listening,Pre - A1,10,Masculino
 listening,A1 -,50,Masculino
 listening,A1,75,Masculino
-listening,A1 +,82,Masculino
-listening,A2 -,36,Masculino
+listening,A1 +,78,Masculino
+listening,A2 -,35,Masculino
 listening,A2,34,Masculino
 listening,A2 +,16,Masculino
 speak 1,Pre - A1,96,Femenino
-speak 1,A1,160,Femenino
+speak 1,A1,159,Femenino
 speak 1,A2,84,Femenino
 speak 2,Pre - A1,86,Femenino
-speak 2,A1,168,Femenino
+speak 2,A1,167,Femenino
 speak 2,A2,86,Femenino
 reading,Pre - A1,22,Femenino
 reading,A1 -,15,Femenino
@@ -31,11 +31,11 @@ reading,A1,52,Femenino
 reading,A1 +,57,Femenino
 reading,A2 -,75,Femenino
 reading,A2,81,Femenino
-reading,A2 +,37,Femenino
+reading,A2 +,36,Femenino
 listening,Pre - A1,5,Femenino
 listening,A1 -,39,Femenino
 listening,A1,88,Femenino
 listening,A1 +,95,Femenino
-listening,A2 -,53,Femenino
+listening,A2 -,52,Femenino
 listening,A2,48,Femenino
 listening,A2 +,12,Femenino

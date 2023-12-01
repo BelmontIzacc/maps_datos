@@ -1,41 +1,41 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Género
-speak 1,Pre - A1,217,Masculino
-speak 1,A1,321,Masculino
-speak 1,A2,166,Masculino
-speak 2,Pre - A1,230,Masculino
-speak 2,A1,314,Masculino
-speak 2,A2,160,Masculino
+speak 1,Pre - A1,213,Masculino
+speak 1,A1,314,Masculino
+speak 1,A2,165,Masculino
+speak 2,Pre - A1,223,Masculino
+speak 2,A1,310,Masculino
+speak 2,A2,159,Masculino
 reading,Pre - A1,45,Masculino
-reading,A1 -,62,Masculino
-reading,A1,127,Masculino
-reading,A1 +,98,Masculino
-reading,A2 -,147,Masculino
-reading,A2,144,Masculino
+reading,A1 -,59,Masculino
+reading,A1,124,Masculino
+reading,A1 +,94,Masculino
+reading,A2 -,146,Masculino
+reading,A2,143,Masculino
 reading,A2 +,79,Masculino
-listening,Pre - A1,16,Masculino
-listening,A1 -,99,Masculino
+listening,Pre - A1,15,Masculino
+listening,A1 -,93,Masculino
 listening,A1,147,Masculino
-listening,A1 +,179,Masculino
-listening,A2 -,87,Masculino
+listening,A1 +,175,Masculino
+listening,A2 -,86,Masculino
 listening,A2,120,Masculino
 listening,A2 +,54,Masculino
-speak 1,Pre - A1,211,Femenino
-speak 1,A1,372,Femenino
-speak 1,A2,209,Femenino
-speak 2,Pre - A1,187,Femenino
-speak 2,A1,397,Femenino
-speak 2,A2,208,Femenino
-reading,Pre - A1,32,Femenino
-reading,A1 -,21,Femenino
-reading,A1,93,Femenino
-reading,A1 +,113,Femenino
-reading,A2 -,181,Femenino
-reading,A2,231,Femenino
-reading,A2 +,120,Femenino
-listening,Pre - A1,13,Femenino
-listening,A1 -,63,Femenino
-listening,A1,151,Femenino
-listening,A1 +,216,Femenino
-listening,A2 -,125,Femenino
-listening,A2,150,Femenino
+speak 1,Pre - A1,204,Femenino
+speak 1,A1,364,Femenino
+speak 1,A2,207,Femenino
+speak 2,Pre - A1,180,Femenino
+speak 2,A1,389,Femenino
+speak 2,A2,206,Femenino
+reading,Pre - A1,31,Femenino
+reading,A1 -,20,Femenino
+reading,A1,92,Femenino
+reading,A1 +,111,Femenino
+reading,A2 -,177,Femenino
+reading,A2,226,Femenino
+reading,A2 +,117,Femenino
+listening,Pre - A1,11,Femenino
+listening,A1 -,61,Femenino
+listening,A1,148,Femenino
+listening,A1 +,213,Femenino
+listening,A2 -,120,Femenino
+listening,A2,148,Femenino
 listening,A2 +,74,Femenino
