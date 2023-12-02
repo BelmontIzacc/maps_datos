@@ -1,5 +1,5 @@
-Sección,Promedio de aciertos correctos,Calificación,Número de estudiantes con esa calificación por sección,Promedio de aciertos asignada por revisores
-Speaking Part 1,2,A1,8,1
-Speaking Part 2,2,A1,9,2
-Listening,20,A2,9,6
-Reading,38,A2 +,14,5
+Sección,Promedio de aciertos correctos,Calificación,Número de estudiantes con esa calificación por sección
+Speaking Part 1,2,A1,8
+Speaking Part 2,2,A1,9
+Listening,20,A2,9
+Reading,38,A2 +,14

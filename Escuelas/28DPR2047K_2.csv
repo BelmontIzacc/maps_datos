@@ -1,4 +1,4 @@
-Sección,Promedio de aciertos correctos,Calificación promedio,Número de estudiantes con esa calificación por sección,Promedio de aciertos asignada por revisores
-Speaking,2,A1,34, - 
-Listening,15,A1 +,10,16
-Reading,20,A1,22,21
+Sección,Promedio de aciertos correctos,Calificación promedio,Número de estudiantes con esa calificación por sección
+Speaking,2,A1,34
+Listening,15,A1 +,10
+Reading,20,A1,22

@@ -1,63 +1,63 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Edad
-speak 1,Pre - A1,1034,11
-speak 1,A1,1342,11
-speak 1,A2,655,11
-speak 2,Pre - A1,978,11
-speak 2,A1,1391,11
-speak 2,A2,662,11
-reading,Pre - A1,219,11
-reading,A1 -,241,11
-reading,A1,473,11
-reading,A1 +,478,11
-reading,A2 -,557,11
-reading,A2,662,11
-reading,A2 +,368,11
+speak 1,Pre - A1,1008,11
+speak 1,A1,1298,11
+speak 1,A2,645,11
+speak 2,Pre - A1,944,11
+speak 2,A1,1354,11
+speak 2,A2,653,11
+reading,Pre - A1,218,11
+reading,A1 -,240,11
+reading,A1,460,11
+reading,A1 +,460,11
+reading,A2 -,541,11
+reading,A2,644,11
+reading,A2 +,355,11
 listening,Pre - A1,82,11
-listening,A1 -,359,11
-listening,A1,631,11
-listening,A1 +,729,11
-listening,A2 -,412,11
-listening,A2,434,11
-listening,A2 +,362,11
-speak 1,Pre - A1,152,10
-speak 1,A1,210,10
-speak 1,A2,85,10
-speak 2,Pre - A1,145,10
-speak 2,A1,227,10
+listening,A1 -,357,11
+listening,A1,608,11
+listening,A1 +,699,11
+listening,A2 -,402,11
+listening,A2,420,11
+listening,A2 +,361,11
+speak 1,Pre - A1,145,10
+speak 1,A1,201,10
+speak 1,A2,84,10
+speak 2,Pre - A1,133,10
+speak 2,A1,222,10
 speak 2,A2,75,10
-reading,Pre - A1,35,10
-reading,A1 -,40,10
-reading,A1,81,10
-reading,A1 +,78,10
-reading,A2 -,71,10
-reading,A2,92,10
-reading,A2 +,49,10
+reading,Pre - A1,33,10
+reading,A1 -,37,10
+reading,A1,79,10
+reading,A1 +,75,10
+reading,A2 -,68,10
+reading,A2,89,10
+reading,A2 +,48,10
 listening,Pre - A1,9,10
 listening,A1 -,69,10
-listening,A1,94,10
-listening,A1 +,111,10
-listening,A2 -,62,10
-listening,A2,58,10
+listening,A1,87,10
+listening,A1 +,104,10
+listening,A2 -,60,10
+listening,A2,57,10
 listening,A2 +,42,10
-speak 1,Pre - A1,22,12
+speak 1,Pre - A1,20,12
 speak 1,A1,33,12
-speak 1,A2,10,12
-speak 2,Pre - A1,21,12
+speak 1,A2,9,12
+speak 2,Pre - A1,19,12
 speak 2,A1,33,12
-speak 2,A2,11,12
+speak 2,A2,10,12
 reading,Pre - A1,6,12
 reading,A1 -,4,12
 reading,A1,15,12
-reading,A1 +,14,12
-reading,A2 -,10,12
+reading,A1 +,13,12
+reading,A2 -,9,12
 reading,A2,10,12
-reading,A2 +,6,12
+reading,A2 +,5,12
 listening,Pre - A1,2,12
 listening,A1 -,9,12
-listening,A1,11,12
+listening,A1,10,12
 listening,A1 +,16,12
-listening,A2 -,13,12
-listening,A2,8,12
+listening,A2 -,12,12
+listening,A2,7,12
 listening,A2 +,6,12
 speak 1,Pre - A1,3,13
 speak 1,A1,1,13

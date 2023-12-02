@@ -1,61 +1,61 @@
 Sección,Calificación,Cantidad de alumnos con esa calificación,Edad
-speak 1,Pre - A1,341,11
-speak 1,A1,551,11
-speak 1,A2,207,11
-speak 2,Pre - A1,338,11
-speak 2,A1,568,11
-speak 2,A2,193,11
-reading,Pre - A1,69,11
-reading,A1 -,92,11
-reading,A1,183,11
-reading,A1 +,191,11
-reading,A2 -,235,11
-reading,A2,217,11
-reading,A2 +,109,11
+speak 1,Pre - A1,367,11
+speak 1,A1,595,11
+speak 1,A2,217,11
+speak 2,Pre - A1,372,11
+speak 2,A1,605,11
+speak 2,A2,202,11
+reading,Pre - A1,70,11
+reading,A1 -,93,11
+reading,A1,196,11
+reading,A1 +,209,11
+reading,A2 -,251,11
+reading,A2,235,11
+reading,A2 +,122,11
 listening,Pre - A1,16,11
-listening,A1 -,135,11
-listening,A1,252,11
-listening,A1 +,301,11
-listening,A2 -,144,11
-listening,A2,162,11
-listening,A2 +,87,11
-speak 1,Pre - A1,54,10
-speak 1,A1,79,10
-speak 1,A2,35,10
-speak 2,Pre - A1,50,10
-speak 2,A1,87,10
+listening,A1 -,137,11
+listening,A1,275,11
+listening,A1 +,331,11
+listening,A2 -,154,11
+listening,A2,176,11
+listening,A2 +,88,11
+speak 1,Pre - A1,61,10
+speak 1,A1,88,10
+speak 1,A2,36,10
+speak 2,Pre - A1,62,10
+speak 2,A1,92,10
 speak 2,A2,31,10
-reading,Pre - A1,10,10
-reading,A1 -,8,10
-reading,A1,32,10
-reading,A1 +,28,10
-reading,A2 -,37,10
-reading,A2,29,10
-reading,A2 +,24,10
+reading,Pre - A1,12,10
+reading,A1 -,11,10
+reading,A1,34,10
+reading,A1 +,31,10
+reading,A2 -,40,10
+reading,A2,32,10
+reading,A2 +,25,10
 listening,Pre - A1,4,10
 listening,A1 -,22,10
-listening,A1,38,10
-listening,A1 +,52,10
-listening,A2 -,19,10
-listening,A2,20,10
+listening,A1,45,10
+listening,A1 +,59,10
+listening,A2 -,21,10
+listening,A2,21,10
 listening,A2 +,12,10
-speak 1,Pre - A1,8,12
+speak 1,Pre - A1,10,12
 speak 1,A1,10,12
-speak 1,A2,2,12
-speak 2,Pre - A1,9,12
+speak 1,A2,3,12
+speak 2,Pre - A1,11,12
 speak 2,A1,9,12
-speak 2,A2,2,12
+speak 2,A2,3,12
 reading,Pre - A1,3,12
 reading,A1 -,0,12
 reading,A1,4,12
-reading,A1 +,4,12
-reading,A2 -,4,12
+reading,A1 +,5,12
+reading,A2 -,5,12
 reading,A2,2,12
-reading,A2 +,3,12
+reading,A2 +,4,12
 listening,Pre - A1,1,12
 listening,A1 -,1,12
-listening,A1,6,12
+listening,A1,7,12
 listening,A1 +,4,12
-listening,A2 -,5,12
-listening,A2,2,12
+listening,A2 -,6,12
+listening,A2,3,12
 listening,A2 +,1,12
