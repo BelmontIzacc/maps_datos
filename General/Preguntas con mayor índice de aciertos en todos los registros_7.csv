@@ -1,8 +1,8 @@
-Top,Pregunta,Porcentaje de respuestas correctas,NÃºmero de respuestas correctas
-1,reading_3.1_2,98.02,6176.0
-2,reading_3.1_1,94.59,5960.0
-3,reading_3.1_4,94.59,5960.0
-4,reading_3.1_5,94.35,5945.0
-5,reading_3.1_3,93.35,5882.0
-6,reading_3.2_3,93.22,5874.0
-7,reading_4.1_1,90.4,5696.0
+,,Top,Pregunta,Porcentaje de respuestas correctas,Número de respuestas correctas,,,
+reading_3.1_2,,1,Pregunta 2 de la sección 3.1 del examen reading,97.30%,3354,,100,97.3
+reading_3.1_4,,2,Pregunta 4 de la sección 3.1 del examen reading,93.62%,3227,,100,93.62
+reading_3.2_3,,3,Pregunta 3 de la sección 3.2 del examen reading,93.41%,3220,,100,93.41
+reading_3.1_1,,4,Pregunta 1 de la sección 3.1 del examen reading,93.27%,3215,,100,93.27
+reading_3.1_5,,5,Pregunta 5 de la sección 3.1 del examen reading,93.18%,3212,,100,93.18
+reading_3.1_3,,6,Pregunta 3 de la sección 3.1 del examen reading,91.99%,3171,,100,91.99
+reading_4.1_1,,7,Pregunta 1 de la sección 4.1 del examen reading,89.44%,3083,,100,89.44
